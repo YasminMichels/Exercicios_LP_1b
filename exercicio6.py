@@ -1,0 +1,5 @@
+n1 = float(input("Digite um valor: "))
+dobro = (n1*2)
+triplo = (n1*3)
+raiz = (n1**0.5)
+print("O dobro do seu valor é", dobro ,"O triplo é",triplo,"E a raiz quadrada é",raiz)
