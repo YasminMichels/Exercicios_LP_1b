@@ -1,0 +1,5 @@
+n1=int(input("Digite algum valor: "))
+dobro=(n1*2)
+triplo=(n1*3)
+raiz=(n1**0.5)
+print("O dobro desse valor é: ",dobro,"O triplo desse valor é: ",triplo,"E a raiz quadrada é:",raiz)
